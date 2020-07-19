@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2020/07/19 07:49:29.031,=D:\my\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2020/07/19 07:49:29.703,=D:\my\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2020/07/19 07:51:50.077,D:\my\Documents\Embarcadero\Studio\Projects\CPP\1042\MainUnit.cpp=D:\my\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2020/07/19 07:51:50.077,D:\my\Documents\Embarcadero\Studio\Projects\CPP\1042\MainUnit.h=D:\my\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2020/07/19 07:51:50.077,D:\my\Documents\Embarcadero\Studio\Projects\CPP\1042\MainUnit.dfm=D:\my\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2020/07/19 07:52:08.615,D:\my\Documents\Embarcadero\Studio\Projects\CPP\1042\tft1PCH1.h=D:\my\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2020/07/19 07:52:14.734,D:\my\Documents\Embarcadero\Studio\Projects\CPP\1042\tft1.cbproj=D:\my\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2020/07/19 08:03:13.691,=D:\my\Documents\Embarcadero\Studio\Projects\CPP\1042\Unit1.cpp</Transaction>
+    <Transaction>2020/07/19 08:03:35.139,D:\my\Documents\Embarcadero\Studio\Projects\CPP\1042\ClassUnit.cpp=D:\my\Documents\Embarcadero\Studio\Projects\CPP\1042\Unit1.cpp</Transaction>
+    <Transaction>2020/07/19 08:03:35.139,D:\my\Documents\Embarcadero\Studio\Projects\CPP\1042\ClassUnit.h=D:\my\Documents\Embarcadero\Studio\Projects\CPP\1042\Unit1.h</Transaction>
+  </Transactions>
+</BorlandProject>
